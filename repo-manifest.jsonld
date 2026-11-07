@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/sqlspec/commit/78a00b9b89ba604d0e64784e6c877121c2be2b3f",
       "git:hexsha": "78a00b9b89ba604d0e64784e6c877121c2be2b3f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.71.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.71.1",
+      "repolex:parsedAt": "2026-11-07T01:22:02.269196+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/sqlspec/commit/71d232cbe0d91227d02f6b0aea6751ece9813566",
