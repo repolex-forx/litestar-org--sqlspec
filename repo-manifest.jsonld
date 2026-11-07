@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/sqlspec/commit/78a00b9b89ba604d0e64784e6c877121c2be2b3f",
       "git:hexsha": "78a00b9b89ba604d0e64784e6c877121c2be2b3f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.71.1"
     },
     {
