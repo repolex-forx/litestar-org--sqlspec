@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "sqlspec",
+  "versions": [
+    {
+      "commit": "78a00b9b89ba604d0e64784e6c877121c2be2b3f",
+      "tag": "v0.71.1",
+      "parsed_at": "2026-11-07T01:22:02.269921+00:00"
+    }
+  ]
+}
